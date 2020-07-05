@@ -5,6 +5,7 @@
     <applayout></applayout>
     <fooster></fooster>
 </div>
+
 </template>
 
 <script>
